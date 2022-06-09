@@ -1,6 +1,12 @@
 # Among-Us-Dump
 Classes and Memory Offstes for Among Us
 
+Layout:
+public const string TYPENAMEHERE_INSTANCENAMEHERE = "OFFSET IN HEX";
+
+
+Classes will look like this:
+
 ```
         public class PlayerControl
         {
